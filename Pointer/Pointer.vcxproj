@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="FileName.cpp" />
     <ClCompile Include="friendclass.cpp" />
+    <ClCompile Include="friendfunction.cpp" />
     <ClCompile Include="Pointer.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
